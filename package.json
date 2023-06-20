@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "firebase": "^9.22.2"
+  },
+  "devDependencies": {
+    "create-elm-app": "^5.22.0"
+  },
+  "scripts": {
+    "build": "elm-app build"
+}
+}
